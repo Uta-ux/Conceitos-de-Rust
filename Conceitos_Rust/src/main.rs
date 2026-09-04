@@ -53,10 +53,10 @@ fn main() {
     let primeira_letra: char = 'a';
     println!("primeira letra da String, é : {primeira_letra}");
 
-    let x = 10;
-    let y = 5;
+    let x: i32 = 10;
+    let y: i32 = 5;
 
-    let total = dados_primitivos::matematica(x,y);
+    let total: i32 = dados_primitivos::matematica(x,y);
 
     println!("o resultado é: {}",total);
 

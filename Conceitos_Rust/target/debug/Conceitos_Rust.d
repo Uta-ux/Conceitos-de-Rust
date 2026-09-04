@@ -1,0 +1,1 @@
+/home/beicom/Documentos/GitHub/Conceitos-de-Rust/Conceitos_Rust/target/debug/Conceitos_Rust: /home/beicom/Documentos/GitHub/Conceitos-de-Rust/Conceitos_Rust/src/dado_compostos.rs /home/beicom/Documentos/GitHub/Conceitos-de-Rust/Conceitos_Rust/src/dados_primitivos.rs /home/beicom/Documentos/GitHub/Conceitos-de-Rust/Conceitos_Rust/src/main.rs
