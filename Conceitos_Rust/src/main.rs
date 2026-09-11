@@ -9,7 +9,7 @@ fn main() {
     // que ele vai adquirir :)
     let y: u32 = 20; // unsigned integer, ele não pode retroceder para Numeros negativos.
 
-    let z: f64 = 30.5; // float para numeros quebrados
+    let z:  f64= 30.5; // float para numeros quebrados
 
     let name: String = String::from("Joao");// estamos transformando uma varialvel em String,
         // Referenciando chamando para um Struck de String. // e isso so é um dos jeitos temos mais
